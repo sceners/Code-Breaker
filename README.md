@@ -29,3 +29,18 @@ Various MS-DOS tools, trainers, cheats used by TDU-JAM, Genesis, Pentagram and r
 * `TRAINER.ASM` `TRAINSH.ASM` `TRAINXC.ASM` `TRAINXXX.ASM` Trainer template.
 * `TROLLCHT.ASM` Hugo the Battling Mine Digging Troll cheat.
 
+### Generic CD-ROM file loader V1.0 by Code Breaker
+Usage `Usage : CDExec <Program Name>`
+
+### Installation program version v1.0 - TDU-JAM
+
+### Knights Of Xentar trainer - Genesis
+
+### Memory patcherloader v1.0 & Generic patcher v1.0 - Pentagram
+* `FIX.ASM` `FIX1.ASM` `FIX2.ASM`  Memory patcher/loader v1.0 by Code Breaker.
+* `FIXSHEL1.ASM` `FIXSHEL2.ASM` `FIXSHEL3.ASM` Fix shell (template).
+* `PATCH.ASM` Pentagram patch.
+* `PRINCE11.ASM` Prince of Persia v1.1 fix.
+* `PRINCE11.PAS` Prince Of Persia V1.1 unprotected by Code Breaker.
+* `PRINCE2.ASM` Prince of Persia 2 unprotected.
+* `PRINCEX.ASM` Prince Of Persia V1.1 unprotect.
