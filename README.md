@@ -2,7 +2,8 @@
 
 Various MS-DOS tools, trainers, cheats used by TDU-JAM, Genesis, Pentagram and released independently during 1992-1995.
 
-### Cheets, tools, and miscellaneous
+### Cheats, tools, and miscellaneous
+https://defacto2.net/file/detail/af26fae
 * `BUMPYCHT.ASM` Bumpy's arcade fantasy cheat.
 * `CAPT.ASM` Capture V1.0.
 * `CLIKCHT.ASM` Clik Clak cheat.
@@ -30,13 +31,17 @@ Various MS-DOS tools, trainers, cheats used by TDU-JAM, Genesis, Pentagram and r
 * `TROLLCHT.ASM` Hugo the Battling Mine Digging Troll cheat.
 
 ### Generic CD-ROM file loader V1.0 by Code Breaker
+https://defacto2.net/file/detail/ab1d3ee
 Usage `Usage : CDExec <Program Name>`
 
 ### Installation program version v1.0 - TDU-JAM
+https://defacto2.net/file/detail/ae2469e
 
 ### Knights Of Xentar trainer - Genesis
+https://defacto2.net/file/detail/ad2218e
 
 ### Memory patcherloader v1.0 & Generic patcher v1.0 - Pentagram
+https://defacto2.net/file/detail/ac1f8fe
 * `FIX.ASM` `FIX1.ASM` `FIX2.ASM`  Memory patcher/loader v1.0 by Code Breaker.
 * `FIXSHEL1.ASM` `FIXSHEL2.ASM` `FIXSHEL3.ASM` Fix shell (template).
 * `PATCH.ASM` Pentagram patch.
